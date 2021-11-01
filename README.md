@@ -1,2 +1,0 @@
-# Divisão-GUI
-
